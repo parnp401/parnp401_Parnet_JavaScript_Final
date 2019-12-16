@@ -1,16 +1,8 @@
-# react-interactive-paycard
+Inspired from another project I've seen online, I decided to integrate React instead of Angular.
+Based on an example I've found, I changed several elements in order to create a look and file related to coffee and the New School (with the logo for example). The react application is basically an extension of the website and an app tha I created for my Major Studio.
 
-Inspired from a vue project [vue-interactive-paycard](https://github.com/muhammederdem/vue-interactive-paycard), I decided to recreate the same on React as a part time fun project.
-I did some minor changes on the animations and optimizations on the code.
-
-A fantastic credit card form with smooth and sweet micro-interactions. Includes number formatting, validation and automatic card type detection. Built with reactjs and also fully responsive
-
-![](demo.gif)
-
-## Libraries used
-
--   [react](https://github.com/facebook/react)
--   [react-transition-group](https://github.com/reactjs/react-transition-group)
+The card animation would also be suitable for banks or online stores. Credits to Jasmin MIF for the .
+I hope everything is connected now- even if you download it from github. If not, please watch the video to see how it looks, especially the card animation. 
 
 ## Available Scripts
 
@@ -31,8 +23,4 @@ You will also see any lint errors in the console.
 
 ### `npm run build`
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
